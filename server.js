@@ -27,7 +27,7 @@ app.get('/about', (req, res) => {
 })
 
 // SERVER
-app.listen(PORT, () => {
+app.listen(process.env.PORT, () => {
     console.log('listening on port 4000...');
 })
 
