@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://aparks4.github.io/Game-of-War/",
+      "git": "https://github.com/aparks4/Game-of-War",
+      "image": "https://i.imgur.com/2fhCqwJ.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://arynsgaproject.herokuapp.com/users/login",
+      "git": "https://github.com/aparks4/project2New",
+      "image": "https://i.imgur.com/cZLq1wp.png"
+    }
+  ]
